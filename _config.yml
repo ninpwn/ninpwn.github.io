@@ -14,13 +14,13 @@ plugins:
 platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/xsshinobi
+    link: https://xsshinobi.github.io
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/dean-erlich-978008166
   - name: Blog
     icon: <i class="fa-solid fa-file-code"></i>
-    link: https://github.com/xsshinobi/blog
+    link: https://xsshinobi.github.io/blog
 
 navigation:
   - name: Readme
