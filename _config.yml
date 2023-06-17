@@ -1,7 +1,7 @@
-title: Minimalistic
+title: xsshinobi
 logo: /assets/img/logo.jpg
-email: person@address.com
-description: Minimalistic is a theme powered by Jekyll.
+email: 8824348@gmail.com
+description: Breaking stuff.
 favicon: true
 color-scheme: auto
 
@@ -9,14 +9,15 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
+  - jekyll-remote-theme
 
 platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/vaibhavvikas
+    link: https://github.com/xsshinobi
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/vaibhavvikas
+    link: https://www.linkedin.com/in/dean-erlich-978008166
 
 navigation:
   - name: Readme
