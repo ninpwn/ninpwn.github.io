@@ -18,6 +18,9 @@ platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/dean-erlich-978008166
+  - name: Blog
+    icon: <i class="fa-brands fa-blog"></i>
+    link: https://github.com/xsshinobi/blog
 
 navigation:
   - name: Readme
