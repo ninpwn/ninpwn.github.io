@@ -20,7 +20,7 @@ platforms:
     link: https://www.linkedin.com/in/dean-erlich-978008166
   - name: Blog
     icon: <i class="fa-solid fa-file-code"></i>
-    link: https://xsshinobi.github.io/blog
+    link: https://heapno.github.io/blog
 
 navigation:
   - name: Readme
