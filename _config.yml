@@ -1,4 +1,4 @@
-title: XSShinobi
+title: Heapnautic
 logo: /assets/img/gabimaru.jpg
 email: 8824348@gmail.com
 description: Breaking stuff.
@@ -14,7 +14,7 @@ plugins:
 platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
-    link: https://xsshinobi.github.io
+    link: https://github.com/Heapno
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/dean-erlich-978008166
