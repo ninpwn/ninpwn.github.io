@@ -16,7 +16,7 @@ I am Dean Erlich, a 20-year-old individual from Israel, deeply immersed in the c
 
 # Certifications
 
-<details>
+<details onclick="toggleDetails(this)">
 <summary><h2 style="margin: 0; display: inline;">ASU CSE-365</h2></summary>
 <br>
 <h3>Information Assurance</h3>
@@ -26,7 +26,7 @@ The course offered an enlightening journey encompassing diverse subjects such as
 
 <br>
 
-<details>
+<details onclick="toggleDetails(this)">
 <summary><h2 style="margin: 0; display: inline;">ASU CSE-466</h2></summary>
 <br>
 <h3>Computer Systems Security</h3>
@@ -36,17 +36,25 @@ During the course, I have gained comprehensive expertise in the domains of rever
 
 <style>
   details {
-    opacity: 1;
-    max-height: 100%;
     overflow: hidden;
-    transition: max-height 0.3s ease-out, opacity 0.3s ease-out;
+    transition: max-height 0.3s ease-out;
+    max-height: 0;
   }
 
   details[open] {
-    max-height: 0;
-    opacity: 0;
+    max-height: 100vh;
   }
 </style>
+
+<script>
+  function toggleDetails(element) {
+    if (element.open) {
+      element.removeAttribute("open");
+    } else {
+      element.setAttribute("open", "");
+    }
+  }
+</script>
 
 ---
 
