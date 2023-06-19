@@ -20,7 +20,6 @@ I am Dean Erlich, a 20-year-old individual from Israel, deeply immersed in the c
 <summary><h2 style="margin: 0; display: inline;">ASU CSE-365</h2></summary>
 <br>
 <h3>Information Assurance</h3>
-<hr>
 The course offered an enlightening journey encompassing diverse subjects such as web server construction in x86-64 ASM, reverse engineering, MITM attacks, cryptography, web vulnerabilities and binary exploitation. ASU's CSE-365 helped me foster a comprehensive understanding of safeguarding digital landscapes.  
 </details>
 <br>
