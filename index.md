@@ -79,17 +79,6 @@ I am Dean Erlich, a 20-year-old individual from Israel, deeply immersed in the c
 
 <br>
 
-<details onclick="toggleDetails(this)">
-  <summary><h2 style="margin: 0; display: inline;">ASU CSE-466</h2></summary>
-  <div class="details-content">
-    <br>
-    <h3>Computer Systems Security</h3>
-    <p>━━━</p>
-    During the course, I have gained comprehensive expertise in the domains of reverse engineering binaries, proficiently crafting shellcodes, adeptly identifying memory errors, and acquiring substantial experience in the art of exploiting software and systems through the strategic utilization of memory primitives.
-  </div>
-</details>
-
-
 ---
 
 # Skills
