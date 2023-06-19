@@ -9,5 +9,4 @@ Welcome to my blog on exploit research. Join me as I delve into techniques and m
 \
 Let's embark on this journey together.
 \
-\
 ## Dean Erlich
