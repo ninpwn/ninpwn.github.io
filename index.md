@@ -20,8 +20,8 @@ I am Dean Erlich, a 20-year-old individual from Israel, deeply immersed in the c
 <summary><h2 style="margin: 0; display: inline;">ASU CSE-365</h2></summary>
 <br>
 <h3>Information Assurance</h3>
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="2">
-  <line x1="0" y1="1" x2="100%" y2="1" stroke="#000" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1">
+  <line x1="0" y1="0" x2="100%" y2="0" stroke="#000" stroke-width="2"/>
 </svg>
 The course offered an enlightening journey encompassing diverse subjects such as web server construction in x86-64 ASM, reverse engineering, MITM attacks, cryptography, web vulnerabilities and binary exploitation. ASU's CSE-365 helped me foster a comprehensive understanding of safeguarding digital landscapes.  
 </details>
