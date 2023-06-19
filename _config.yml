@@ -14,16 +14,16 @@ plugins:
 platforms:
   - name: Blog
     icon: <i class="fa-solid fa-file-code"></i>
-    link: https://n1np0.github.io/blog
+    link: https://ninpwn.github.io/blog
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/dean-erlich-978008166
   - name: CV
     icon: <i class="fa-solid fa-file-lines"></i>
-    link: https://n1np0.github.io/cv.pdf
+    link: https://ninpwn.github.io/cv.pdf
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/n1np0
+    link: https://github.com/ninpwn
 
 navigation:
   
