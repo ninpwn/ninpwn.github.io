@@ -19,6 +19,7 @@ I am Dean Erlich, a 20-year-old individual from Israel, deeply immersed in the c
 <style>
   details {
     cursor: pointer;
+    overflow: hidden;
   }
 
   details summary {
@@ -41,21 +42,21 @@ I am Dean Erlich, a 20-year-old individual from Israel, deeply immersed in the c
     transform: rotate(90deg);
   }
 
-  details[open] div {
-    opacity: 1;
-    max-height: 1000px; /* Adjust this value based on your content */
-    transition: max-height 0.2s ease-out, opacity 0.2s ease-out;
+  details div {
+    max-height: 0;
+    opacity: 0;
+    transition: max-height 0.3s ease-out, opacity 0.3s ease-out;
+    overflow: hidden;
   }
 
-  details div {
-    opacity: 0;
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.2s ease-in, opacity 0.2s ease-in;
+  details[open] div {
+    max-height: 1000px; /* Adjust this value based on your content */
+    opacity: 1;
+    transition: max-height 0.3s ease-in, opacity 0.3s ease-in;
   }
 </style>
 
-<details>
+<details onclick="toggleDetails(this)">
   <summary><h2 style="margin: 0; display: inline;">ASU CSE-365</h2></summary>
   <div>
     <br>
@@ -67,7 +68,7 @@ I am Dean Erlich, a 20-year-old individual from Israel, deeply immersed in the c
 
 <br>
 
-<details>
+<details onclick="toggleDetails(this)">
   <summary><h2 style="margin: 0; display: inline;">ASU CSE-466</h2></summary>
   <div>
     <br>
@@ -76,8 +77,6 @@ I am Dean Erlich, a 20-year-old individual from Israel, deeply immersed in the c
     During the course, I have gained comprehensive expertise in the domains of reverse engineering binaries, proficiently crafting shellcodes, adeptly identifying memory errors, and acquiring substantial experience in the art of exploiting software and systems through the strategic utilization of memory primitives.
   </div>
 </details>
-
-<br>
 
 ---
 
