@@ -23,7 +23,13 @@ I hope that at some point in my life this passion becomes my career :3.
 
 ---
 
-# Education
+# Certifications
+
+## ASU CSE-365 - Information Assurance
+
+## ASU CSE-466 - System Security
+
+## ASU CSE-499 - Advanced Cybersecurity Topics
 
 ---
 
