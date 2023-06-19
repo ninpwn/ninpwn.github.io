@@ -12,18 +12,21 @@ plugins:
   - jekyll-remote-theme
 
 platforms:
+  - name: Home
+    icon: <i class="fa-solid fa-home"></i>
+    link: https://heapno.github.io/
+  - name: Blog
+    icon: <i class="fa-solid fa-file-code"></i>
+    link: https://heapno.github.io/blog
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/dean-erlich-978008166
   - name: CV
     icon: <i class="fa-solid fa-file-lines"></i>
     link: https://heapno.github.io/cv.pdf
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/Heapno
-  - name: LinkedIn
-    icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/dean-erlich-978008166
-  - name: Blog
-    icon: <i class="fa-solid fa-file-code"></i>
-    link: https://heapno.github.io/blog
 
 navigation:
   
