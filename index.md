@@ -15,9 +15,12 @@ I am Dean Erlich, a 20-year-old individual from Israel, deeply immersed in the c
 ---
 
 # Certifications
-
-### ASU CSE-365 - Information Assurance
+<details>
+  <summary>ASU CSE-365 - Information Assurance</summary>
+  
 The course offered an enlightening journey encompassing diverse subjects such as web server construction in x86-64 ASM, reverse engineering, MITM attacks, cryptography, web vulnerabilities and binary exploitation. ASU's CSE-365 helped me foster a comprehensive understanding of safeguarding digital landscapes.
+  
+</details>
 
 ### ASU CSE-466 - Computer Systems Security
 During the course, I have gained comprehensive expertise in the domains of reverse engineering binaries, proficiently crafting shellcodes, adeptly identifying memory errors, and acquiring substantial experience in the art of exploiting software and systems through the strategic utilization of memory primitives.
