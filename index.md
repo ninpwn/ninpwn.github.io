@@ -40,3 +40,10 @@ With a strong proficiency in Open Source Intelligence (OSINT) within the cyber r
 Experienced in static ELF analysis, employing a range of tools such as IDA, hexdump, and other industry-standard utilities, to unveil hidden functions, identify vulnerabilities, and comprehend program logic as well as VM obfuscations.
 
 ### Dynamic ELF Analysis
+
+
+### Multi-Lingual
+- Hebrew - Native
+- English - Native
+- Arabic - Proficient
+- Korean - Basic
