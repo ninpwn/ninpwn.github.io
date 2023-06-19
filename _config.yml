@@ -12,9 +12,6 @@ plugins:
   - jekyll-remote-theme
 
 platforms:
-  - name: Home
-    icon: <i class="fa-solid fa-home specific-icon" style="font-size: 15px;"></i>
-    link: https://heapno.github.io/
   - name: Blog
     icon: <i class="fa-solid fa-file-code"></i>
     link: https://heapno.github.io/blog
