@@ -23,12 +23,13 @@ I hope that at some point in my life this passion becomes my career :3.
 # Certifications
 
 ### ASU CSE-365 - Information Assurance
-This course 
+The course offered an enlightening journey encompassing diverse subjects such as web server construction in x86-64 ASM, reverse engineering, MITM attacks, cryptography, web vulnerabilities and binary exploitation. ASU's CSE-365 helped me foster a comprehensive understanding of safeguarding digital landscapes.
 
 ### ASU CSE-466 - System Security
-Throughout this course I professionalized in reverse engineering binaries, writing shellcodes, identifying memory errors and got experienced with exploiting software and systems via memory primitives.
+During the course, I have gained comprehensive expertise in the domains of reverse engineering binaries, proficiently crafting shellcodes, adeptly identifying memory errors, and acquiring substantial experience in the art of exploiting software and systems through the strategic utilization of memory primitives.
 
-### ASU CSE-499 - Advanced Cybersecurity Topics
+### ASU CSE-494 - Advanced Cybersecurity Topics
+
 
 ---
 
