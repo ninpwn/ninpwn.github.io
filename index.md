@@ -10,7 +10,7 @@ Join me as I delve into techniques and methodologies that I learn along my way o
 
 # About Me
 
-I am Dean Erlich, a 20-year-old individual hailing from Israel, deeply immersed in the captivating world of technology and, more specifically, dedicated to the pursuit of cyber security, exploit research, and exploit development through various channels, including engaging in thrilling CTFs, enrolling in comprehensive courses, and acquiring valuable hands-on experience, with the ultimate aspiration of transforming this profound passion into a fulfilling and prosperous career.
+I am Dean Erlich, a 20-year-old individual from Israel, deeply immersed in the captivating world of technology and, more specifically, dedicated to the pursuit of cyber security, exploit research, and exploit development through various channels, including engaging in CTFs, enrolling in comprehensive courses, and acquiring valuable hands-on experience, with the ultimate aspiration of transforming this profound passion into a career.
 
 ---
 
