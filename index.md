@@ -34,6 +34,20 @@ The course offered an enlightening journey encompassing diverse subjects such as
 During the course, I have gained comprehensive expertise in the domains of reverse engineering binaries, proficiently crafting shellcodes, adeptly identifying memory errors, and acquiring substantial experience in the art of exploiting software and systems through the strategic utilization of memory primitives.
 </details>
 
+<style>
+  details {
+    opacity: 1;
+    max-height: 100%;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out, opacity 0.3s ease-out;
+  }
+
+  details[open] {
+    max-height: 0;
+    opacity: 0;
+  }
+</style>
+
 ---
 
 # Skills
