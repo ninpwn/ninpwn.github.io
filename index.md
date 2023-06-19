@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Welcome!
+# Welcome
 
 Join me as I delve into techniques and methodologies that I learn along my way of mastering the art that is software exploitation.
 
