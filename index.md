@@ -17,12 +17,14 @@ I am Dean Erlich, a 20-year-old individual from Israel, deeply immersed in the c
 # Certifications
 
 <details>
-<summary><h3 style="margin: 0; display: inline;">ASU CSE-365 - Information Assurance</h3></summary>
+<summary><h3 style="margin: 0; display: inline;">ASU CSE-365</h3></summary>
+<h4>Information Assurance</h4>
 The course offered an enlightening journey encompassing diverse subjects such as web server construction in x86-64 ASM, reverse engineering, MITM attacks, cryptography, web vulnerabilities and binary exploitation. ASU's CSE-365 helped me foster a comprehensive understanding of safeguarding digital landscapes.  
 </details>
 <br>
 <details>
-<summary><h3 style="margin: 0; display: inline;">ASU CSE-466 - Computer Systems Security</h3></summary>
+<summary><h3 style="margin: 0; display: inline;">ASU CSE-466</h3></summary>
+<h4>Computer Systems Security</h4>
 During the course, I have gained comprehensive expertise in the domains of reverse engineering binaries, proficiently crafting shellcodes, adeptly identifying memory errors, and acquiring substantial experience in the art of exploiting software and systems through the strategic utilization of memory primitives.
 </details>
 
@@ -45,7 +47,7 @@ Experienced in static ELF analysis, employing a range of tools such as IDA, hexd
 ### Dynamic ELF Analysis
 Proficient in leveraging tools like GDB and its extensive plugins to conduct real-time examination and debugging, expertly uncovering runtime behavior, analyzing memory structures, and tracing program execution flow for comprehensive troubleshooting and in-depth analysis.
 
-### Multi-Lingual
+### Languages
 - Hebrew - Native
 - English - Native
 - Arabic - Proficient
