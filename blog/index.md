@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<title>Blog</title>
 <div class="card">
   <h3>Some Title</h3>
   <p>Text</p>
