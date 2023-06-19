@@ -28,6 +28,7 @@ I hope that at some point in my life this passion becomes my career :3.
 ### ASU CSE-365 - Information Assurance
 
 ### ASU CSE-466 - System Security
+Throughout this course I learned fundementals of memory and kernel exploitation, got 
 
 ### ASU CSE-499 - Advanced Cybersecurity Topics
 
