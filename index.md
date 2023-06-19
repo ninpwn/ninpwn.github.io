@@ -32,15 +32,17 @@ WIP
 ### OSINT
 With a strong proficiency in Open Source Intelligence (OSINT) within the cyber realm and beyond it, I possess an exceptional ability to utilize diverse online sources and enumeration techniques to gather critical information, analyze it effectively, and derive valuable insights for comprehensive cybersecurity measures.
 
-### Exploit Development (Python)
+### Exploit Development
+Intermediate level of proficiency in exploit development, able to navigate and manipulate vulnerabilities present in binaries and web-based interfaces with adeptness mainly using Python and sometimes Bash.
 
 ### Linux
+Intermediate familiarity with Linux and the Linux kernel, adept at navigating the Linux environment, leveraging its robust features, command-line tools, and kernel-level functionalities for efficient system administration, troubleshooting, and customization.
 
 ### Static ELF Analysis
 Experienced in static ELF analysis, employing a range of tools such as IDA, hexdump, and other industry-standard utilities, to unveil hidden functions, identify vulnerabilities, and comprehend program logic as well as VM obfuscations.
 
 ### Dynamic ELF Analysis
-
+Proficient in leveraging tools like GDB and its extensive plugins to conduct real-time examination and debugging, expertly uncovering runtime behavior, analyzing memory structures, and tracing program execution flow for comprehensive troubleshooting and in-depth analysis.
 
 ### Multi-Lingual
 - Hebrew - Native
