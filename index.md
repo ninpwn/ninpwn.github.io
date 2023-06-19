@@ -53,5 +53,5 @@ With a strong proficiency in Open Source Intelligence (OSINT) within the cyber r
 ### Languages
 - Hebrew - Native
 - English - Native
-- Arabic - Proficient
+- Arabic - Semi-Fluent
 - Korean - Basic
