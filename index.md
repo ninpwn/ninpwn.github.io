@@ -48,7 +48,7 @@ Intermediate familiarity with Linux and the Linux kernel, adept at navigating th
 Intermediate level of proficiency in exploit development, able to navigate and manipulate vulnerabilities present in binaries and web-based interfaces with adeptness mainly using Python and Bash.
 
 ### OSINT
-With a strong proficiency in Open Source Intelligence (OSINT) within the cyber realm and beyond it, I possess an exceptional ability to utilize diverse online sources and enumeration techniques to gather critical information, analyze it effectively, and derive valuable insights for comprehensive cybersecurity measures
+With a strong proficiency in Open Source Intelligence (OSINT) within the cyber realm and beyond it, I possess an exceptional ability to utilize diverse online sources and enumeration techniques to gather critical information, analyze it effectively, and derive valuable insights for comprehensive decision making measures.
 
 ### Languages
 - Hebrew - Native
