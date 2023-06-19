@@ -4,7 +4,10 @@ layout: default
 
 # Welcome!
 
-I am Dean and breaking things is my passion, this page serves both as an online CV and as a blogpost of mine.
+Welcome to my blog on exploit research. Join me as I delve into techniques and methodologies that I learn along my way of mastering the art that is system exploitation.
 \
 \
-Hopefully, the insights and experiences that I share here provide value to you, the reader :).
+Let's embark on this journey together.
+\
+\
+## Dean Erlich
