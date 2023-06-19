@@ -38,7 +38,7 @@ Experienced in static executable file analysis, employing a range of tools such 
 ### Dynamic ELF Analysis
 
 
-### Python (simple scripting)
+### Exploit Development (Python)
 
 
 ### Linux
