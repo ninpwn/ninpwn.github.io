@@ -15,9 +15,6 @@ platforms:
   - name: Blog
     icon: <i class="fa-solid fa-file-code"></i>
     link: https://ninpwn.github.io/blog
-  - name: LinkedIn
-    icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/dean-erlich-978008166
   - name: CV
     icon: <i class="fa-solid fa-file-lines"></i>
     link: https://ninpwn.github.io/cv.pdf
