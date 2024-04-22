@@ -1,0 +1,25 @@
+title: ninpwn
+logo: /assets/img/gabimaru.jpg
+description:
+favicon: true
+color-scheme: auto
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-remote-theme
+
+platforms:
+  - name: Blog
+    icon: <i class="fa-solid fa-file-code"></i>
+    link: https://ninpwn.github.io/blog
+  - name: CV
+    icon: <i class="fa-solid fa-file-lines"></i>
+    link: https://ninpwn.github.io/cv.pdf
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/ninpwn
+
+navigation:
+  
