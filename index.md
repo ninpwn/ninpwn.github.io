@@ -17,7 +17,7 @@ I am Dean, a 21 year old individual from Israel, deeply immersed in the captivat
 # Certifications
 
 <details>
-<summary><h2 style="margin: 0; display: inline;">ASU CSE-365</h2></summary>
+<summary><h2 style="margin: 0; display: inline;">CSE 365 - Spring 2023</h2></summary>
 <br>
 <h3>Information Assurance</h3>
 <p>━━━</p>
@@ -27,7 +27,7 @@ The course offered an enlightening journey encompassing diverse subjects such as
 <br>
 
 <details>
-<summary><h2 style="margin: 0; display: inline;">ASU CSE-466</h2></summary>
+<summary><h2 style="margin: 0; display: inline;">CSE 466 - Fall 2023</h2></summary>
 <br>
 <h3>Computer Systems Security</h3>
 <p>━━━</p>
